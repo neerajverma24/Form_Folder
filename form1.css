@@ -1,0 +1,111 @@
+body {
+  background-color: black;
+  margin-top: 20px;
+}
+
+.div1 {
+  border: 1px solid black;
+  border-radius: 20px;
+  background-color: rgb(29, 112, 112);
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  width: 800px;
+  height: 700px;
+  margin-left: 350px;
+}
+
+.div2 {
+  background-color: white;
+  border-radius: 15px;
+  height: 600px;
+  width: 600px;
+  align-content: center;
+}
+
+.div3 {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  flex-wrap: nowrap;
+}
+
+.head {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  margin-left: 30%;
+  margin-top: 45px;
+}
+
+.tablehead {
+  font-size: larger;
+  margin-left: 10px;
+}
+
+.tabledata {
+  border-radius: 15px;
+  margin-left: 40px;
+  height: 30px;
+  padding: 8px;
+  width: 100%;
+}
+
+.tabledata1 {
+  border-radius: 15px;
+  margin-left: 40px;
+  height: 100px;
+  padding: 8px;
+  width: 100%;
+}
+
+.div4 {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  flex-wrap: nowrap;
+  padding: 15px;
+  color : white;
+}
+
+.button1 {
+  border-radius: 10px;
+  background-color: aqua;
+  font-size: large;
+  font-weight: bold;
+  width: 150px;
+  height: 35px;
+  
+}
+
+.button1:hover {
+  background-color: rgb(83, 116, 116);
+  cursor: pointer;
+}
+.message {
+  border-radius: 15px;
+  margin-left: 40px;
+  height: 30px;
+  padding: 8px;
+  width: 100%;
+}
+.div5 {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  flex-wrap: nowrap;
+  padding: 15px;
+  color : white;
+}
+.button2 {
+  border-radius: 10px;
+  background-color: aqua;
+  font-size: large;
+  font-weight: bold;
+  width: 150px;
+  height: 45px;
+  
+}
+
+.button2:hover {
+  background-color: rgb(83, 116, 116);
+  cursor: pointer;
+}
